@@ -10,8 +10,8 @@ Desenvolvedor Fullstack com experiência em entrega de sistemas e aplicativos re
 - **Infra:** cPanel, deploy via FTP/Git, Linux
 
 ## 🚀 Projetos em destaque
-- **App Dicafé** — Aplicativo mobile para gestão de fazendas e controle de pragas*
-- **Sistema Canal Vos** — Sistema de gestão de feedbacks*
+- **App Dicafé** — Aplicativo mobile para gestão de fazendas e controle de pragas
+- **Sistema Canal Vos** — Sistema de gestão de feedbacks
 - **Sistema de Tarefas** — API REST em .NET
 - **Sistema de Empréstimo de Livros** — C#/.NET/MVC
 
