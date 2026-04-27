@@ -7,7 +7,7 @@ Desenvolvedor Fullstack com experiência em entrega de sistemas e aplicativos re
 - **Frontend:** HTML, CSS, JavaScript
 - **Mobile:** Flutter 
 - **Banco de dados:** SQL Server, MySQL
-- **Infra:** cPanel, deploy via FTP/Git
+- **Infra:** cPanel, deploy via FTP/Git, Linux
 
 ## 🚀 Projetos em destaque
 - **App Dicafé** — Aplicativo mobile para gestão de fazendas e controle de pragas*
